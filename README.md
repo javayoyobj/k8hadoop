@@ -1,4 +1,4 @@
-k8hadoop hadoop consumer
+k8hadoop
 ========
 
 k8hadoop is to load data into HDFS in Kafka mapreduce jobs.
@@ -9,6 +9,8 @@ Overview
 1.Topic offsets stored in Zookeeper.
 
 2.Run into YARN
+
+3.Support 2.8.0 version kafka
 
 Run
 ========
