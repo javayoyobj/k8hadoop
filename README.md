@@ -13,4 +13,4 @@ Run
 
 First kafka_lib added to the hadoop classpath
 
-java -cp k8hadoop.jar:`hadoop classpath` com.zj.kafka.k8hadoop.HadoopConsumer -z <zookeeper> -t <topic> target_hdfs_path
+java -cp k8hadoop.jar:'hadoop classpath' com.zj.kafka.k8hadoop.HadoopConsumer -z <zookeeper> -t <topic> target_hdfs_path
