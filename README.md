@@ -1,7 +1,7 @@
 k8hadoop
 ========
 
-k8hadoop is to load data into HDFS in Kafka mapreduce jobs.
+It is load data into HDFS from kafka mapreduce jobs.
 
 Overview
 ========
